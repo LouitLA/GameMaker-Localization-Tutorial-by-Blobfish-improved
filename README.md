@@ -1,6 +1,6 @@
-# GameMaker-Studio-2---Localization-Tutorial-by-Blobfish-improved-
+# GameMaker Localization Tutorial by Blobfish improved
 
-This GMS 2 script is from Blobfish youtube tutorial: https://www.youtube.com/watch?v=HYPYowI4PK0
+This GameMaker asset is from Blobfish youtube tutorial: https://www.youtube.com/watch?v=HYPYowI4PK0
 
 I made some changes to incorporate the script into my project and I wanted to share it! You could download as a local package
 or view the project files online.
