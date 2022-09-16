@@ -7,5 +7,5 @@ I made some changes to incorporate the script into my project and I wanted to sh
 #Changed the names & added comments for better readability
 
 #Improved the argument substitution feature
-  - instead of using a {a} to replace one value you can now replace with mutiple values! Just use {argument number}.
+  - instead of using a {a} text to replace one value you can now replace with mutiple values! Just use {argument number}.
     example "Increases health by {1} and shield by {2}" -> LocalizedText("generic_upgrade_description", 3, 5);
